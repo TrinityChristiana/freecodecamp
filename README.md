@@ -6,5 +6,5 @@ After learning the basics of Python while at Nashville Software school, I am rea
 
 ## Index
 Scientific Computing with Python
-- [Python for Everybody]() (In Progress)
+- [Python for Everybody](./scientific-computing-with-python/python-for-everybody/index.md) (In Progress)
 - Scientific Computing with Python Projects (Not Started)
