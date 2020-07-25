@@ -1,7 +1,3 @@
-![GitHub issues](https://img.shields.io/github/issues/TrinityTerry/freecodecamp?style=flat-square)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TrinityTerry/freecodecamp)
-
 # freeCodeCamp Exercises
 
 Ever since freeCodeCamp announced that they would be adding a Python course I have been very excited to go thorugh it. I have patiently waited and it's finally out and I can't wait to see what cool things I'm about to learn.
