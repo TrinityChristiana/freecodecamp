@@ -17,7 +17,9 @@ Best of Luck !!
 - Find the Symmetric Difference ![Not Started](https://img.shields.io/badge/Progress-Not%20Started-critical?style=plastic)
 - [Inventory Update](./inventory-update/instructions.md) ![Finished](https://img.shields.io/badge/Progress-Finished-success?style=plastic)
 - [No Repeats Please](./no-repeats-please/instructions.md) ![In Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow?style=plastic)
-- Pairwise ![Not Started](https://img.shields.io/badge/Progress-Not%20Started-critical?style=plastic)
+- [Pairwise](./pairwise/instructions.md) ![Finished](https://img.shields.io/badge/Progress-Finished-success?style=plastic)
+
+
 - Implement Bubble Sort ![Not Started](https://img.shields.io/badge/Progress-Not%20Started-critical?style=plastic)
 - Implement Selection Sort ![Not Started](https://img.shields.io/badge/Progress-Not%20Started-critical?style=plastic)
 - Implement Insertion Sort ![Not Started](https://img.shields.io/badge/Progress-Not%20Started-critical?style=plastic)
